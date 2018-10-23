@@ -6,7 +6,7 @@ f3c5ff	 //Macro name
 666666	 //Other keywords
 ffffff	 //Dummy data name
 b9ebeb	 //Dummy code name
-b9ebeb	 //Dummy unexplored name
+7fff00	 //Dummy unexplored name
 bbecff	 //Hidden name
 c0c0c0	 //Library function name
 00d269	 //Local variable name
@@ -102,4 +102,4 @@ d4d4d4	 //Message background
 404080	 //Patched bytes
 0080ff	 //Unsaved changes
 ff0000	 //Highlight color
-e1ffff	 //Hint color
+1d2727	 //Hint color
