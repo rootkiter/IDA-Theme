@@ -43,9 +43,9 @@ ffaaff	 //Line prefix: externs
 2d2d2d	 //Punctuation
 32ade1	 //Opcode bytes
 ffff00	 //Manual operand
-666666	 //Error
+888888	 //Error
 0000aa	 //Default color
-617c7c	 //Selected
+9cc7c7	 //Selected
 009d9d	 //Library function
 ff55ff	 //Regular function
 000000	 //Single instruction
@@ -83,9 +83,9 @@ ff4040	 //Register target
 [GRAPH]
 d0d0d0	 //Top color
 949494	 //Bottom color
-00ab00	 //Normal title
-989faa	 //Selected title
-54585e	 //Current title
+b4b4b4	 //Normal title
+7faaaa	 //Selected title
+ebebeb	 //Current title
 00ffff	 //Group frame
 242424	 //Node shadow
 003900	 //Highlight color 1
@@ -102,4 +102,4 @@ d4d4d4	 //Message background
 404080	 //Patched bytes
 0080ff	 //Unsaved changes
 ff0000	 //Highlight color
-1d2727	 //Hint color
+3f5555	 //Hint color
